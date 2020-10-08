@@ -6,7 +6,8 @@ function App() {
 
   return (
     <main>
-      <h1>this is kirkby&apos;s project page</h1>      
+      <h1>this is kirkby&apos;s project page</h1>
+      <h2>new_branch</h2>
     </main>
   );
 }
